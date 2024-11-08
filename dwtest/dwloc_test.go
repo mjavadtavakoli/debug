@@ -283,7 +283,7 @@ func TestDwarfVariableLocations(t *testing.T) {
 			t.Fatal(err)
 		} else {
 			tdir = td
-			fmt.Fprintf(os.Stderr, "** preserving tmpdir %s\n", td)
+			fmt.Fprintf(os.Stderr, "** preserving  javadtvkl tmpdir %s\n", td)
 		}
 	}
 
